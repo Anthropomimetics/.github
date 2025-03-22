@@ -51,7 +51,7 @@ Estudiante de ciencia computacional con experiencia en implementación de inteli
 Encargado de la implementación de tecnologías de motion-tracking, drivers de bajo nivel de compatibilidad / recopilación de datos, e implementación de algoritmos avanzados de inteligencia artificial específicamente en el input del modelo.
 
 #### [Daniel Alfredo Barreras Meraz](https://www.linkedin.com/in/danielbrmz/) - Cofundador / Especialista en Inteligencia artificial
-Estudiante de ciencia computacional experto en desarrollo de inteligencia artificial con experiencia en arquitectura de redes y infraestructura.
+Estudiante de ciencia computacional experto en desarrollo de inteligencia artificial con experiencia en arquitectura de redes e infraestructura.
 Encargado del entrenamiento y *fine-tunning* del modelo de inteligencia artificial así como las interfaces de comunicación.
 
 ## Colaboraciones estratégicas
