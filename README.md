@@ -51,8 +51,8 @@ Esta iniciativa también abre la posibilidad de fabricar [dispositivos de motion
 
 | Nombre | Rol | Experiencia |
 |--------|-----|-------------|
-| [Yair Salvador Beltrán Ríos](https://www.linkedin.com/in/yairprogrammer/) | Founder / Director de tecnología | IA, RV/RA, sistemas embebidos |
-| [Daniel Alfredo Barreras Meraz](https://www.linkedin.com/in/danielbrmz/) | Cofundador / Especialista en IA | Desarrollo de IA, arquitectura de redes |
+| [Yair Salvador Beltrán Ríos](https://www.linkedin.com/in/yairprogrammer/) | Fundador | IA, RV/RA, sistemas embebidos |
+| [Daniel Alfredo Barreras Meraz](https://www.linkedin.com/in/danielbrmz/) | Fundador | Desarrollo de IA, arquitectura de redes |
 
 ## Colaboraciones estratégicas
 
