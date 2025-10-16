@@ -18,15 +18,15 @@ Nuestro sistema consta de múltiples capas de abstracción, centradas en un mode
 
 La adaptabilidad a sistemas existentes de comunicación usuario-computadora se logra a través de interfaces de comunicación versátiles. Estas permiten a usuarios o fabricantes desarrollar drivers o capas de compatibilidad para una comunicación óptima con el modelo, tanto en la entrada de datos desde diversas interfaces como en la salida, facilitando el movimiento natural en prótesis existentes.
 
-![image](https://github.com/user-attachments/assets/a372a0eb-89d6-404a-8e23-80020d277e4f)
-
+![image](https://github.com/user-attachments/assets/9dec35df-f5b6-408c-965c-608634b03028)
 
 ### Modelo de IA
 Inicialmente, el usuario pasa por un período de entrenamiento para mapear diferentes inputs con acciones motrices básicas en la prótesis. Una vez completado este aprendizaje básico, el modelo es capaz de aprender continuamente sobre los patrones de input del usuario. Esto no solo mejora su funcionamiento, sino que eventualmente permite identificar conjuntos de acciones complejas y abstraerlas a inputs simples de manera automática, resultando en un uso cada vez más intuitivo.
 
 Por otro lado, las acciones se ejecutan con movimientos naturales, dinámicos y orgánicos, emulando el comportamiento de una extremidad biológica. Esto proporciona al usuario mayor comodidad y facilita la asimilación de la prótesis como una extensión natural del cuerpo, en lugar de una herramienta externa.
 
-![image](https://github.com/user-attachments/assets/986f796b-5ec7-4527-b589-71d95ef15283)
+![image](https://github.com/user-attachments/assets/3025d0db-0e65-41e2-b4b7-e77addf81a99)
+
 
 ### Capas de compatibilidad
 
@@ -42,17 +42,17 @@ El desarrollo, entrenamiento y mejora continua de un modelo de esta naturaleza r
 
 Esta iniciativa también abre la posibilidad de fabricar [dispositivos de motion-tracking](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker) y [hápticos](https://github.com/LucidVR) open-source, lo cual no solo generaría ingresos adicionales, sino que también facilitaría la recopilación de datos, siempre con el consentimiento explícito del usuario.
 
-![image](https://github.com/user-attachments/assets/982cad8c-e30e-4ed2-8aa3-cac23f547804)
+![image](https://github.com/user-attachments/assets/7aff20f2-6625-429a-bedb-a7afa51ebd00)
 
 ## Nosotros
 
-#### [Yair Salvador Beltrán Ríos](https://www.linkedin.com/in/yairprogrammer/) - Founder / Director de tecnología
-Estudiante de ciencia computacional con experiencia en implementación de inteligencia artificial para reconocimiento de patrones, desarrollo de RV/RA, y desarrollo de tecnologías open-source y sistemas embebidos.
-Encargado de la implementación de tecnologías de motion-tracking, drivers de bajo nivel de compatibilidad / recopilación de datos, e implementación de algoritmos avanzados de inteligencia artificial específicamente en el input del modelo.
 
-#### [Daniel Alfredo Barreras Meraz](https://www.linkedin.com/in/danielbrmz/) - Cofundador / Especialista en Inteligencia artificial
-Estudiante de ciencia computacional experto en desarrollo de inteligencia artificial con experiencia en arquitectura de redes e infraestructura.
-Encargado del entrenamiento y *fine-tunning* del modelo de inteligencia artificial así como las interfaces de comunicación.
+## Nuestro equipo 👥
+
+| Nombre | Rol | Experiencia |
+|--------|-----|-------------|
+| [Daniel Alfredo Barreras Meraz](https://www.linkedin.com/in/danielbrmz/) | Fundador | Desarrollo de IA, arquitectura de redes |
+| [Yair Salvador Beltrán Ríos](https://www.linkedin.com/in/yairprogrammer/) | Fundador | RV/RA, sistemas embebidos |
 
 ## Colaboraciones estratégicas
 
